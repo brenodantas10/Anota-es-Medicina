@@ -1,0 +1,1 @@
+O tubo contorcido proximal é a saída do **[[Corpúsculo Renal]]** 

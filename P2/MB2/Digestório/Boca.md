@@ -1,4 +1,4 @@
-É a abertura pela qual o alimento entra no tubo digestivo, oide-se chamar **rima da boca**. É formada pelos dentes, língua 
+É a abertura pela qual o alimento entra no tubo digestivo, oide-se chamar **rima da boca**. É formada pelos dentes, língua e termina na faringe, que dá continuidade no [[Canal Alimentar]] com o Esôfago.
 
 # Divisões
 - Vestíbulo da boca

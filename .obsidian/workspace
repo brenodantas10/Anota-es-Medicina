@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "8a6855d7b1d65636",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a08ccdbd53877ef",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "909b3d9294e8951e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc865625eeca73ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "771f7e2bd05259b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ed6e1bdf2c2d10e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f9fee966b6ff7eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddb32bb0356b2078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbe0b109e944ca79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2a08ccdbd53877ef",
+  "lastOpenFiles": [
+    "P2/MB2/Digestório/Boca.md",
+    "P2/MB2/Digestório/Anatomia/Canal Alimentar.md",
+    "P2/MB2/Urogenital/Histologia/Rim.md",
+    "P2/MB2/Urogenital/Histologia/Aparelho Urinário.md",
+    "P2/MB2/Urogenital/Equilíbrio Ácido-Base.md",
+    "P2/MB2/Urogenital/Controle Endócrino.md",
+    "P2/MB2/Urogenital/Integração Morfo-Fisio (Puberdade Precoce).md",
+    "P2/Modulo Biológico 2/Urogenital/Rim.md",
+    "P2/Genética Médica/Diagnóstico Molecular.md",
+    "P2/Genética Médica/Polimorfismos.md"
+  ]
+}

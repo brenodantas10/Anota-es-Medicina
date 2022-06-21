@@ -1,0 +1,1 @@
+É uma fita de RNA ou DNA complementar a região de interesse a qual se liga. As sondas podem cobrir de uma região pequena ou até um cromossomo inteiro (sonda painting).

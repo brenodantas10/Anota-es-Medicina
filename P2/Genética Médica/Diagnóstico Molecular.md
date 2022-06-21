@@ -122,8 +122,16 @@ Usada em medicina **preventiva**
 ### Biochips de DNA
 - Um chip com sondas de voltadas para genes alvo
 - Esses chips vão conter o DNA que vai começar a ter expressão gênica
+	- Características da tabela
+		- Linhas são amostras
+		- Colunas são Genes
+	- **Compara-se** duas amostras
+		- Controle
+		- Paciente analisado
 - A intensidade da expressão vai ser lida por um computador.
 	- Há uma coloração de genes bons e genes ruins
+		- A intensidade vai implicar em cores escuras ou intensas (quando expressa muito) ou claras ou aparece pouco (quando expressa menos)
+		- As cores podem se misturar e significa que está expressando ambos.
 	- Há um cruzamento com o DNA sendo visto
 	- A quantidade de genes bons e ruins vai determinar o prognóstico
 

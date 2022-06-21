@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "2a08ccdbd53877ef",
+        "id": "894cd8bd41b83a8b",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -49,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370
   },
   "right": {
     "id": "f9fee966b6ff7eb9",
@@ -74,25 +74,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1475696530272642",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "2a08ccdbd53877ef",
+  "active": "894cd8bd41b83a8b",
   "lastOpenFiles": [
-    "P2/MB2/Digestório/Boca.md",
-    "P2/MB2/Digestório/Anatomia/Canal Alimentar.md",
-    "P2/MB2/Urogenital/Histologia/Rim.md",
-    "P2/MB2/Urogenital/Histologia/Aparelho Urinário.md",
-    "P2/MB2/Urogenital/Equilíbrio Ácido-Base.md",
-    "P2/MB2/Urogenital/Controle Endócrino.md",
-    "P2/MB2/Urogenital/Integração Morfo-Fisio (Puberdade Precoce).md",
-    "P2/Modulo Biológico 2/Urogenital/Rim.md",
+    "P2/Genética Médica/Diagnóstico Pré-Natal.md",
+    "P2/Genética Médica/Polimorfismos.md",
+    "P2/Genética Médica/Citogenética Molecular.md",
     "P2/Genética Médica/Diagnóstico Molecular.md",
-    "P2/Genética Médica/Polimorfismos.md"
+    "P2/Genética Médica/Sonda.md",
+    "P2/MB2/Digestório/Embriologia/Embriologia do Trato Digestório.md",
+    "P2/MB2/Digestório/Embriologia/Mesentério.md",
+    "!Mesentério.md",
+    "Imagens/Dobramento do Intestino Primitivo.png",
+    "P2/MB2/Digestório/Boca.md"
   ]
 }

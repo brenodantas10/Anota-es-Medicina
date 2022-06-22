@@ -1,1 +1,0 @@
-Controlam as glândulas mucosas da camada submucosa e mucosa, limitando a produção e excreção de substâncias.

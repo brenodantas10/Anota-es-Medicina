@@ -1,0 +1,1 @@
+Contém terminações nervosas que controlam a contratilidade da [[Muscular do Trato Digestório|Camada Múscular do Trato Digestório]]. Está localizada entre a **camada circular** e a **camada transversa**. Dessa forma promovem o **peristaltismo**.

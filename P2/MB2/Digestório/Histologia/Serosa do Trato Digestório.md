@@ -1,0 +1,1 @@
+Possui um epitélio fino mais um conjuntivo.

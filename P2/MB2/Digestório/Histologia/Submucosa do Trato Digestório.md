@@ -1,0 +1,1 @@
+É composta por tecido conjuntivo e presença de glândulas mucosas que lubrificam a parede das mucosas. Como controle das glândulas mucosas, há a existência de [[Plexo Submucoso|Plexo Submucoso]].

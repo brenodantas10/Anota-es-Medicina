@@ -1,3 +1,4 @@
+É o tubo após a [[Faringe|orofaringe]] que leva o bolo alimentar para o [[Estômago]], criando a [[Junção Gastroesofágica]].
 # Organização Histológica
 ## Mucosa
 Possui uma mucosa de proteção.

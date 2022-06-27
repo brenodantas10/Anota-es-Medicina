@@ -1,0 +1,2 @@
+# CRISP-Cas9
+Essa técnica utiliza uma molécula guia, chamada CRISP e uma que recorta a região identificada, a Cas9. A molécula CRISP é formada por um RNA guia e a faixa saudável de DNA que irá substituir o DNA defeituoso.

@@ -1,0 +1,1 @@
+É um espaço entre os Capilares Sinusoides e os Cordões Hepáticos onde se localizam as [[Célula de Ito|células de Ito]]

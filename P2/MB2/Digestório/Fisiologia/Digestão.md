@@ -1,4 +1,8 @@
-A digestão é o processo de obtenção de nutrientes disponíveis no meio-ambiente para o corpo. 
+---
+	tags: Digestório
+---
+# Digestão
+A digestão é o processo de obtenção de nutrientes disponíveis no meio-ambiente para o corpo. Ela se inicia na [[Boca]], a partir da mastigação e saliva com futura [[Deglutição]], além da continuação da digestão química e absorção no estômago e intestinos.
 >[!NOTE]- Interação entre nutrientes e fármacos
 >### Positivas
 >A administração de medicamentos com as refeições **aumenta a absorção e biodisponibilidade farmacológica** e pode **reduzir a irritabilidade sobre a mucosa**.
@@ -69,7 +73,7 @@ SNA simpático e parassimpático
 #### Fase cefálica
 - Liberação moderada antecipada
 - Vantagem
-	- acelera processo
+	- Acelera processo
 - Controle hipotalâmico
 
 #### Fase oral
@@ -92,4 +96,4 @@ Estágio involuntário
 - EES fecha
 - Esfíncter esofágico interno/inferior (ESI) abre.
 
-Como forma de evitar refluxo, o corpo humano possui a [[Barreira Antirrefluxo]]
+Como forma de evitar refluxo, o corpo humano possui a [[Barreira Antirrefluxo]].

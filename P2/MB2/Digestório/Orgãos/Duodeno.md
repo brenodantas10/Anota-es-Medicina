@@ -1,6 +1,10 @@
-# Organização Histológica
-## Mucosa
+---
+	tags: Digestório
+---
+# Duodeno
+## Organização Histológica
+#### Mucosa
 Possui uma camada múscular contínua
-## Submucosa
+#### Submucosa
 Possui glândulas mucosas (glândulas duodenais)
-## Muscular
+#### Muscular

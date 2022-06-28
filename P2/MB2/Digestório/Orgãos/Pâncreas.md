@@ -2,6 +2,7 @@
 	tags: Digestório
 ---
 # Pâncreas
+O pâncreas é um dos principais orgãos da digestão, liberando [[Suco Pancreático]] para digerir o quimo que foi para [[Intestino Delgado]].
 
 ## Divisões
 - Cabeça

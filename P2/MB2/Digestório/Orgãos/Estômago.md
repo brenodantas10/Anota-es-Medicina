@@ -1,25 +1,29 @@
+---
+	tags: Digestório
+---
+# Estômago
 O estômago termina começa com o fim do [[Esôfago]] na [[Junção Gastroesofágica]], onde começa a região cárdica do estômago.
-# Organização Histológica
-## Mucosa
+## Organização Histológica
+### Mucosa
 A camada da mucosa possui feixes de músculos contínuos. Seu epitélio é pregueado e possui uma região epitelia mais eosinófila e outra basófila
 - A região do fundo e do corpo possuem a mesma organização
 - As regiões da cárdia e pilóricas são diferentes.
-### Glândulas gástricas
+#### Glândulas gástricas
 As glândulas gástricas possuem Base, Colo e Ístimo. 
 possui 3 tipos de glândulas:
 - Cárdicas
 - Fúndicas (e do corpo também)
 - Pilórica
-#### Cárdica
+##### Cárdica
 Possui praticamente só fossetas  e curtas, com glândulas bem curtas.
 
-#### Fúndica
+##### Fúndica
 Possuem glândulas mais longas que as fossetas.
 
-#### Pilórica
+##### Pilórica
 Possuem fossetas mais longas que as glândulas
 
-### Células
+#### Células
 Possuem 6 tipos de células nas mucosas:
 - Célula de Revestimento
 	- Muco e bicarbonato
@@ -36,10 +40,15 @@ Possuem 6 tipos de células nas mucosas:
 	- pancreático.
 
 
-## Submucosa
+### Submucosa
 A submucosa contém muito conjuntivo
 
-## Muscular
+### Muscular
 Dividida em Oblíqua interna, Circular média e longitudinal externa
 
-## Serosa
+### Serosa
+
+## Fisiologia
+>[!Note] Hipercloridria
+>Aumento do ácido gastrico por aumento de cloro, pode ser causado por H. Pylori ou outro fator.
+### Esvazimento Gástrico

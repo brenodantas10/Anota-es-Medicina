@@ -1,0 +1,5 @@
+# Comunicação de Más Notícias
+Uma má notícia é qualquer notícia que possa interferir ou afetar de forma adversa a percepção do paciente para com o seu futuro. Essas notícias variam de pessoa para pessoa, e o médico deve identificar esses sinais enquanto se comunica com o paciente.
+
+## Fatores que evitam a notícia
+Os médicos, em geral, devem prezar pela autonomia do paciente e orientá-lo sobre seu diagnóstico, tratamento e riscos. Contudo, sabe-se que a transmissão de uma má notícia pode causar danos psicológicos ao paciente se não for informada de forma adequada. Devido a isso, médicos mais novos acabam por terem dificuldades em informar as notícias, ou mesmo, os pacientes tentam calar os médicos para não receber a notícia. De todo modo, a comunicação não adequada pode interferir na relação médico-paciente e criar uma aversão do paciente ao tratamento ou mesmo ao médico. Assim, foi criado o protocolo [[SPIKES]] para sistematizar uma forma de tornar essa comunicação menos traumática para ambas as partes

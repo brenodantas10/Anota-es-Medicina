@@ -1,0 +1,2 @@
+# Cirurgia Laparoscópica
+Também chamada de videolaparoscopia, é uma técnica que faz-se pequenas incisões para introduzir longas pinças e câmeras como forma de visualizar o que se está operando sem a necessidade de fazer uma [[Laparotomia]]. Possui taxa de mortalidade de 0,23%.

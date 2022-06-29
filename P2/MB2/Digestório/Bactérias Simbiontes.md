@@ -1,0 +1,2 @@
+# Bactérias Simbiontes
+Fazem parte da [[Microbiota#Microbiota Gastrointestinal|Microbiota Gastrontestinal]] e desempenham um papel que ajuda na regulação dos processos digestórios e funcionamento do sistema imune. Sua ação é altamente relacionada com a produção de serotonina no [[Estômago]], em pesquisas recentes, e pode ter **influência na saúde mental** do indivíduo por ter relação com a serotonina.

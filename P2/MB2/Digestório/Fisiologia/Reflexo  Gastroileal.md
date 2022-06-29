@@ -1,0 +1,2 @@
+# Reflexo Gastroileal
+Quando nos alimentamos, os sensores da boca, esôfago e estômago são sensibilizados, levando uma resposta para preparar próximas zonas responsáveis pela digestão. Assim, caso ainda tenha comida no [[Intestino Delgado]], haverá um reflexo que visa aumentar o peristaltismo nesse intestino como forma de acelerar seu esvaziamento, levando o bolo alimentar (agora chamado quilo) para o [[Intestino Grosso]].

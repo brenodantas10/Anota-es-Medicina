@@ -4,6 +4,7 @@ O câncer é uma [[Mutação]] que ocorreu em uma célula que passou a se multip
 ## Comportamento do câncer
 ![[Imagens/Evolução do câncer.png]]
 O câncer se inicia a partir de uma célula mutada que começa a se multiplicar mais que outras vizinhas, propagando sua mutação e, possivelmente, gerando novas mutações ao longo das divisões. Essas **mutações vão se aculmulando a cada geração** e formando um **[[Mosaico]]**.
+
 ![[Ciclo do Câncer.png]]
 
 ## Etapas

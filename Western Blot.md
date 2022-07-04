@@ -1,0 +1,2 @@
+# *Western Blot*
+Também chamada de **Imunoblot de Proteínas**, é a utilização da técnica [[Southern Blot]], mas voltada para **[[Proteína]]**. Ela se utiliza da [[Eletroforese]] e [[Sonda|sondas]] de [[Anticorpos]] específicas para a proteína que se quer analisar.

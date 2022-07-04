@@ -1,4 +1,4 @@
-A citogenética molecular pe dividida em clássica e molecular. a clássica era a época das bandas de cromossomos. A molecular é a utilização de técnicas moleculares como **FISH** (Hibridização in situ por Fluorescência) e Array-CGH.
+A citogenética molecular pe dividida em clássica e molecular. a clássica era a época das bandas de cromossomos. A molecular é a utilização de técnicas moleculares como **FISH** (Hibridização in situ por Fluorescência) e **Array-CGH**.
 
 # FISH
 Utilização de **[[Sonda|sondas]]** com cores e fluorescência para procurar aquilo que se quer em microscópios que captam essa fluorescência. Ao analisar uma região separando com duas cores, uma mistura dessas duas cores, ou uma proximidade muito grande, significa uma a junção de dois *locus* em estudo naquele cromossomo. Pode ajudar a identificar translocações e identificar doenças com maior velocidade.

@@ -1,0 +1,2 @@
+# Complexo Ciclina-CDK
+Se dá pela ligação entre uma [[Ciclina]] e uma [[Quinases Dependentes de Ciclinas (cdk)|cdk]]. Ela age sobre um conjunto de proteínas, ativando-as ou inativando-as de forma a promover as etapas do [[Ciclo Celular]]. Esse complexo pode ser **inativado** a partir de **Inibidores de Ciclinas-cdks (CKI)**, criados pela [[p53]].

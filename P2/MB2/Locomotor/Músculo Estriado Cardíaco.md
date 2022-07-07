@@ -1,0 +1,2 @@
+# Músculo Estriado Cardíaco
+Possuem contração forte, rápida, rítmica e involuntária. Suas células apresentam estrias transversais, são alongadas e ramificadas, unindo-se através de [[Discos Intercalares]].

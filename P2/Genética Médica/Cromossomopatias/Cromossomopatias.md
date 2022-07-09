@@ -1,5 +1,6 @@
 # Cromossomopatias
 São alterações estruturais ou numéricas nos cromossomos, ocasionando doenças e problemas de saúde ao indivíduo.
+![[Cromossomopatias.png]]
 
 ## Alterações Numéricas
 São relacionadas à variação na quantidade de cromossomos quanto ao cariótipo normal (22 pares autossômicos e 1 par sexual). Podem ser:

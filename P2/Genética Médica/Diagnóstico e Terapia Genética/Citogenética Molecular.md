@@ -4,7 +4,7 @@ A citogenética molecular pe dividida em clássica e molecular. a clássica era 
 Utilização de **[[Sonda|sondas]]** com cores e fluorescência para procurar aquilo que se quer em microscópios que captam essa fluorescência. Ao analisar uma região separando com duas cores, uma mistura dessas duas cores, ou uma proximidade muito grande, significa uma a junção de dois *locus* em estudo naquele cromossomo. Pode ajudar a identificar translocações e identificar doenças com maior velocidade.
 
 # GCH-Array
-A Hibridização Genômica Compaarativa Baseada em Microarranjos (GCH-Array) permite estudar o genoma inteiro, identificando **ganhos** e **perdas (deleções)** de segmentos cromossômicos. É um teste oficialmente indicado pela Academia Americana de Genética.
+A Hibridização Genômica Comparativa Baseada em Microarranjos (GCH-Array) permite estudar o genoma inteiro, identificando **ganhos** e **perdas (deleções)** de segmentos cromossômicos. É um teste oficialmente indicado pela Academia Americana de Genética.
 
 Uma das formas de análise pode utilizar de [[Diagnóstico Molecular#Biochips de DNA|Biochips de DNA]].
 

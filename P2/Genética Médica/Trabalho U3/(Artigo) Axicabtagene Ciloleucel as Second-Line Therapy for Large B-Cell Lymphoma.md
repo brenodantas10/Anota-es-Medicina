@@ -86,3 +86,45 @@
 >%%TAGS%%
 >#Técnica
 ^3zjdpgi72va
+
+
+>%%
+>```annotation-json
+>{"created":"2022-07-24T01:12:58.212Z","text":"Teve dias anteriores a contagem com quimioterapia","updated":"2022-07-24T01:12:58.212Z","document":{"title":"Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma","link":[{"href":"urn:x-pdf:421d54a7a96eb8d6ad0ddb529be4c25d"},{"href":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}],"documentFingerprint":"421d54a7a96eb8d6ad0ddb529be4c25d"},"uri":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","target":[{"source":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","selector":[{"type":"TextPositionSelector","start":8065,"end":8387},{"type":"TextQuoteSelector","exact":"followed by conditioning chemo-therapy  with  cyclophosphamide  (at  a  dose  of  500  mg  per  square  meter  of  body-surface  area  per day) and fludarabine (30 mg per square meter per day) at −5, −4, and −3 days before receiving a single infusion of axi-cel (target dose, 2×106 CAR T cells per kilogram of body weight)","prefix":"roup  underwent  leukapheresis, ","suffix":". Op-tional bridging therapy was"}]}]}
+>```
+>%%
+>*%%PREFIX%%roup  underwent  leukapheresis,%%HIGHLIGHT%% ==followed by conditioning chemo-therapy  with  cyclophosphamide  (at  a  dose  of  500  mg  per  square  meter  of  body-surface  area  per day) and fludarabine (30 mg per square meter per day) at −5, −4, and −3 days before receiving a single infusion of axi-cel (target dose, 2×106 CAR T cells per kilogram of body weight)== %%POSTFIX%%. Op-tional bridging therapy was*
+>%%LINK%%[[#^9m2elg2f4g|show annotation]]
+>%%COMMENT%%
+>Teve dias anteriores a contagem com quimioterapia
+>%%TAGS%%
+>
+^9m2elg2f4g
+
+
+>%%
+>```annotation-json
+>{"created":"2022-07-24T01:15:05.762Z","updated":"2022-07-24T01:15:05.762Z","document":{"title":"Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma","link":[{"href":"urn:x-pdf:421d54a7a96eb8d6ad0ddb529be4c25d"},{"href":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}],"documentFingerprint":"421d54a7a96eb8d6ad0ddb529be4c25d"},"uri":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","target":[{"source":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","selector":[{"type":"TextPositionSelector","start":8454,"end":8600},{"type":"TextQuoteSelector","exact":"Patients in the standard-care group received two or three cycles of protocol-defined, investigator-selected,  platinum-based  chemoim-munotherapy.","prefix":"mited to glucocor-ticoids only. ","suffix":"  Patients  who  had  a  complet"}]}]}
+>```
+>%%
+>*%%PREFIX%%mited to glucocor-ticoids only.%%HIGHLIGHT%% ==Patients in the standard-care group received two or three cycles of protocol-defined, investigator-selected,  platinum-based  chemoim-munotherapy.== %%POSTFIX%%Patients  who  had  a  complet*
+>%%LINK%%[[#^3t9pkn99udr|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^3t9pkn99udr
+
+
+>%%
+>```annotation-json
+>{"created":"2022-07-24T01:22:35.281Z","text":"Síndrome de liberação de [[Citocina|citocinas]] é uma síndrome inflamatória aguda sistêmica que causa febre e disfunção múltipla de órgãos (comum em leucemia linfoblástica aguda de células B).","updated":"2022-07-24T01:22:35.281Z","document":{"title":"Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma","link":[{"href":"urn:x-pdf:421d54a7a96eb8d6ad0ddb529be4c25d"},{"href":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}],"documentFingerprint":"421d54a7a96eb8d6ad0ddb529be4c25d"},"uri":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","target":[{"source":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","selector":[{"type":"TextPositionSelector","start":9461,"end":9488},{"type":"TextQuoteSelector","exact":"cytokine  release  syndrome","prefix":"UMA-1.13 The severity  of  the  ","suffix":"  was  graded according to the m"}]}]}
+>```
+>%%
+>*%%PREFIX%%UMA-1.13 The severity  of  the%%HIGHLIGHT%% ==cytokine  release  syndrome== %%POSTFIX%%was  graded according to the m*
+>%%LINK%%[[#^2l633zko7u4|show annotation]]
+>%%COMMENT%%
+>Síndrome de liberação de [[Citocina|citocinas]] é uma síndrome inflamatória aguda sistêmica que causa febre e disfunção múltipla de órgãos (comum em leucemia linfoblástica aguda de células B).
+>%%TAGS%%
+>#Importante
+^2l633zko7u4

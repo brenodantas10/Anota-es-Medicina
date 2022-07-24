@@ -158,19 +158,6 @@
 ^pkuobxjdo1f
 
 
->%%
->```annotation-json
->{"created":"2022-07-24T03:59:07.302Z","updated":"2022-07-24T03:59:07.302Z","document":{"title":"Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma","link":[{"href":"urn:x-pdf:421d54a7a96eb8d6ad0ddb529be4c25d"},{"href":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}],"documentFingerprint":"421d54a7a96eb8d6ad0ddb529be4c25d"},"uri":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","target":[{"source":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","selector":[{"type":"TextPositionSelector","start":10241,"end":10303},{"type":"TextQuoteSelector","exact":"Key secondary end points were response  and  overall  survival","prefix":"ing to blind-ed central review. ","suffix":".  Secondary  end  points includ"}]}]}
->```
->%%
->*%%PREFIX%%ing to blind-ed central review.%%HIGHLIGHT%% ==Key secondary end points were response  and  overall  survival== %%POSTFIX%%.  Secondary  end  points includ*
->%%LINK%%[[#^h45ezzo88t|show annotation]]
->%%COMMENT%%
->
->%%TAGS%%
->
-^h45ezzo88t
-
 
 >%%
 >```annotation-json
@@ -775,3 +762,17 @@
 >%%TAGS%%
 >
 ^vdy252on14m
+
+
+>%%
+>```annotation-json
+>{"created":"2022-07-24T18:28:07.075Z","updated":"2022-07-24T18:28:07.075Z","document":{"title":"Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma","link":[{"href":"urn:x-pdf:421d54a7a96eb8d6ad0ddb529be4c25d"},{"href":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}],"documentFingerprint":"421d54a7a96eb8d6ad0ddb529be4c25d"},"uri":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","target":[{"source":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","selector":[{"type":"TextPositionSelector","start":10241,"end":10303},{"type":"TextQuoteSelector","exact":"Key secondary end points were response  and  overall  survival","prefix":"ing to blind-ed central review. ","suffix":".  Secondary  end  points includ"}]}]}
+>```
+>%%
+>*%%PREFIX%%ing to blind-ed central review.%%HIGHLIGHT%% ==Key secondary end points were response  and  overall  survival== %%POSTFIX%%.  Secondary  end  points includ*
+>%%LINK%%[[#^wp1wsk0kr2r|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^wp1wsk0kr2r

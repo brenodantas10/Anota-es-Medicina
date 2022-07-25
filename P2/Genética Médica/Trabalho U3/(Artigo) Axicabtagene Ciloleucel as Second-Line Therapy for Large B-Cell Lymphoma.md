@@ -373,13 +373,13 @@
 
 >%%
 >```annotation-json
->{"created":"2022-07-24T04:39:32.758Z","updated":"2022-07-24T04:39:32.758Z","document":{"title":"Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma","link":[{"href":"urn:x-pdf:421d54a7a96eb8d6ad0ddb529be4c25d"},{"href":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}],"documentFingerprint":"421d54a7a96eb8d6ad0ddb529be4c25d"},"uri":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","target":[{"source":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","selector":[{"type":"TextPositionSelector","start":36895,"end":37164},{"type":"TextQuoteSelector","exact":"The prognosis for patients with relapsed or re-fractory large B-cell lymphoma after the receipt of  first-line  therapy  remains  poor,  with  most  patients unable to receive definitive therapy with high-dose  chemotherapy  and  autologous  stem-cell  transplantation.","prefix":"e confirmed.D i s c u s s i o n ","suffix":"4,6,7  In  this  international, "}]}]}
+>{"text":"Existem pessoas que não respondem a quimioimunoterapia, e fatores relacionados a idade podem diminuir a resposta a ela.","target":[{"source":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf","selector":[{"type":"TextPositionSelector","start":36895,"end":37164},{"type":"TextQuoteSelector","exact":"The prognosis for patients with relapsed or re-fractory large B-cell lymphoma after the receipt of  first-line  therapy  remains  poor,  with  most  patients unable to receive definitive therapy with high-dose  chemotherapy  and  autologous  stem-cell  transplantation.","prefix":"e confirmed.D i s c u s s i o n","suffix":"4,6,7  In  this  international,"}]}],"created":"2022-07-24T04:39:32.758Z","updated":"2022-07-24T04:39:32.758Z","document":{"title":"Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma","link":[{"href":"urn:x-pdf:421d54a7a96eb8d6ad0ddb529be4c25d"},{"href":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}],"documentFingerprint":"421d54a7a96eb8d6ad0ddb529be4c25d"},"uri":"vault:/P2/Gen%C3%A9tica M%C3%A9dica/Trabalho U3/Axicabtagene Ciloleucel as Second-Line Therapy for Large B-Cell Lymphoma.pdf"}
 >```
 >%%
 >*%%PREFIX%%e confirmed.D i s c u s s i o n%%HIGHLIGHT%% ==The prognosis for patients with relapsed or re-fractory large B-cell lymphoma after the receipt of  first-line  therapy  remains  poor,  with  most  patients unable to receive definitive therapy with high-dose  chemotherapy  and  autologous  stem-cell  transplantation.== %%POSTFIX%%4,6,7  In  this  international,*
 >%%LINK%%[[#^f4xfhz50bvj|show annotation]]
 >%%COMMENT%%
->
+>Existem pessoas que não respondem a quimioimunoterapia, e fatores relacionados a idade podem diminuir a resposta a ela.
 >%%TAGS%%
 >
 ^f4xfhz50bvj

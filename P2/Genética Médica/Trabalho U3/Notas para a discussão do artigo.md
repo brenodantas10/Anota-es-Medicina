@@ -18,7 +18,7 @@
 A terapia com axi-cel é superior ao tratamento padrão ao analisar a sobrevida livre de eventos.
 ![[axi-cel (sobrevida).png]]
 
-- A triagem ZUMA-7 designou aleatoriamente pacientes antes de receitar a quimioimunoterapia de resgate e mostrou que evitaá-la e usar desde cedo terapia CAR T-cell pode resultar em melhoras na resposta e sobrevida livre de eventos.
+- A triagem ZUMA-7 designou aleatoriamente pacientes antes de receitar a quimioimunoterapia de resgate e mostrou que evitá-la e usar desde cedo terapia CAR T-cell pode resultar em melhoras na resposta e sobrevida livre de eventos.
 
 ## Resposta e Sobrevivência Geral
 Não houve diferenças estatísticas significantes comparando os dois tipos de tratamento por fatores já discutidos.

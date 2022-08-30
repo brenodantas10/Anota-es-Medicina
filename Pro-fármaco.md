@@ -1,0 +1,2 @@
+# Pró-Fármacos
+São compostos inativos que são metabolizados pelo corpo a suas formas terapêuticas ativas. A necessidade de se ingerir o pro-fármaco ao invés do fármaco, é pela necessidade de absorção do corpo que será maior com o pro-fármaco do que com o fármaco. Em geral, são mais lipossolúveis que seus respectivos fármacos.

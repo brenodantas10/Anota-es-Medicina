@@ -19,10 +19,3 @@ Roger Ben
 Escolher um tema e apresentar com slide ou sem (apenas oral).
 
 **Meu tema:** Ciência & Inteligência Artificial.
-- Qual o Papel da Inteligência Artificial?
-- Benefícios? Malefícios?
-- Exemplos
-	- Carro automático
-		- Notícias que motoristas de carros automáticos batem
-		- Dormem enquanto dirigem
-		- Confiar demais na máquina e não tomam providência

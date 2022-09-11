@@ -13,7 +13,7 @@ Além da leptina, há sinalizações de curto prazo promovidos por sistemas neur
 - [[Insulina]]
 
 ### Sistema Nervoso
-Com estudos, percebeu-se que existe um centro principal da fome e da saciedade, o [[Núcleo Arqueado]]. Esse núcleo pode estimular ou inibir outros dois núcleos hipotalâmicos como o [[Núcleo Paraventricular]], que promove sinais anorexígenos, e [[[Hipotálamo Lateral]], que promovem sinais orexígenos. Por fim, esses dois núcleos enviam sinais para o [[Núcleo do Trato Solitário]] no tronco mesencefálico regulando a vontade de ingestão de comida.
+Com estudos, percebeu-se que existe um centro principal da fome e da saciedade, o [[Núcleo Arqueado]]. Esse núcleo pode estimular ou inibir outros dois núcleos hipotalâmicos como o [[Núcleo Paraventricular]], que promove sinais anorexígenos, e [[Hipotálamo Lateral]], que promovem sinais orexígenos. Por fim, esses dois núcleos enviam sinais para o [[Núcleo do Trato Solitário]] no tronco mesencefálico regulando a vontade de ingestão de comida.
 #### Núcleo Arqueado
 Possui neurotransmissores envolvidos são os NPY e AgRP como orexigênico e os POMC e CART como anorexigênico.
 #### Núcleo Paraventricular

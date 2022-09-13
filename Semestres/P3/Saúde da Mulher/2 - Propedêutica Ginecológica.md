@@ -1,6 +1,4 @@
-# Saúde da Mulher
-
-## Propedêutica ginecológica
+# Propedêutica ginecológica
 - Confiança
 - Simpatia
 - Respeito
@@ -8,7 +6,7 @@
 >[!Note] Fase de Menarca
 >Idade em que se tem a primeira menstruação. Geralmente entre 12 e 13 anos, mas existem casos mais atrasados e mais adiantados.
 
-### Anamnese
+## Anamnese
 - Identificação
 - História da doença atual
 - História ginecológica e obstétrica
@@ -21,7 +19,7 @@
 - Histórico familiar
 - História psicossocial
 
-### História da Doença Atual
+## História da Doença Atual
 - Início, sinais e sintomas
 - Tratamentos efetuados
 - Antecedentes menstruais
@@ -42,7 +40,7 @@
 >- Anemia
 >- Fraqueza
 
-### Antecedentes Sexuais
+## Antecedentes Sexuais
 - Início da atividade sexual
 - Frequência
 - Libido / orgasmo
@@ -53,20 +51,20 @@
 - Esterilidade conjugal
 - Método anticoncepcional
 
-### Antecedentes Obstétricos
+## Antecedentes Obstétricos
 - Ano da gravidez
 - Duração
 - Tipo de parto
 - Condições de Nascimento
 
-### História Patológica Pregressa
+## História Patológica Pregressa
 - Doença sexualmente transmissíveis
 - Infecções vaginais e pélvicas
 - Tratamento realizado
 - Patologias clínicas e cirúrgicas
 - Complicações e sequelas
 
-### História Familiar e Psicossocial
+## História Familiar e Psicossocial
 - Neoplasias
 - Doenças Hereditárias
 - Diabetes, HAS, Obesidade
@@ -75,7 +73,7 @@
 - Tabagismo, Alcoolismo, Drogas
 - Situação Conjugal
 
-### Exame Físico
+## Exame Físico
 - Peso / Altura
 - Sinais vitais
 - Avaliação cárdio-pulmonar
@@ -83,7 +81,7 @@
 - Pulsos periféricos e extremidades
 - **ABDOMEN** - ausculta, palpação, pontos dolorosos
 
-### Exame das Mamas
+## Exame das Mamas
 - Inspeção estática
 - Inspeção Dinâmica
 - Palpação (mama e linfonodos)
@@ -93,7 +91,7 @@
 	- Ao levantar o braço da paciente, usar o mesmo braço. Palpar com o braço oposto
 - Expressão
 
-### Detecção precoce do câncer de mama
+## Detecção precoce do câncer de mama
 - Anamnese
 - Exame clínico
 - Mamografia
@@ -102,7 +100,7 @@
 		- Quando jovem -> não é cancer (provavelmente)
 		- Quando mais velha -> Provavelmente é câncer
 
-### Fatores de Risco
+## Fatores de Risco
 - História familiar - especialmente parentes de primeiro grau (mãe ou irmã) antes dos 50 anos
 - Idade = aumento da incidência
 - Menarca precoce
@@ -116,7 +114,7 @@
 >[!Note] Palpação e tamanho dos nódulos
 >É muito difícil palpar nódulos abaixo de 2 cm. Por isso a mamografia é altamente indicada.
 
-### Exame Ginecológico
+## Exame Ginecológico
 
 - Inspeção das mucosas: vulva, períneo, ânus
 	- A vulva é pele. Assim, é possível ocorrer doenças de pele na vulva.
@@ -125,16 +123,16 @@
 - Toque vaginal
 - Toque retal - quanto se está fazendo o estadiamento do câncer de colo de útero.
 
-### Exame Especular
+## Exame Especular
 O espéculo deve ser posto com muita cautela, girando aos poucos e conversando com a paciente. É muito comum para fazer o exame papanicolau.
 
-### Interpretação dos resultados do exame papanicolau (Pesquisar)
+## Interpretação dos resultados do exame papanicolau (Pesquisar)
 
-## Assistência Pré-Natal
+# Assistência Pré-Natal
 
 -> Infelizmente o RN é o pior em resultados de pré-natais, por mais que seja onde tem o maior número de atendimentos.
 
-### Gravidez na Adolescência
+## Gravidez na Adolescência
 - Desigualdades
 	- Sociais
 	- Gênero
@@ -142,17 +140,17 @@ O espéculo deve ser posto com muita cautela, girando aos poucos e conversando c
 
 - No mundo das informações, os jovens hoje tem mais acesso. Mas é um erro achar que os jovens tenham sabedoria sobre informações sexuais.
 
-#### Motivos da gravidez na adolescência
+### Motivos da gravidez na adolescência
 - Jovens de 15 anos com medo de informar aos pais sobre o inicio da sua vida sexual
 - Não uso de contraceptivos
 - Não uso de camisinhas
 - Uso de drogas ou bebidas diminuindo o efeito dos contraceptivos.
 
-### Consequências da gravidez na adolescência
+## Consequências da gravidez na adolescência
 - 20% da mortalidade infantil ocorre com mães adolescentes.
 - De mortes relacionadas ao abordo, 19% são de jovens de 10 a 19 anos
 
-### Pontos observados na gravidez de uma adolescente
+## Pontos observados na gravidez de uma adolescente
 - Idade da adolescente; idade ginecológica; idade de menarca; maturação biológica
 - Hábitos nutricionais
 - Adequação proteica
@@ -164,13 +162,13 @@ O espéculo deve ser posto com muita cautela, girando aos poucos e conversando c
 - Nível de escolaridade
 - Pequeno intervalo gestacional
 
-### Sintomas e sinais de probabilidade
+## Sintomas e sinais de probabilidade
 - Sintomas: atraso menstrual
 - Sinais: aumento do volume uterino
 	- Alterações da forma em que o útero se torna globoso (sinal de Noblé-Budin)
 
 
-### Diagnóstico
+## Diagnóstico
 
 Atraso menstrual -> TIG
 - Positivo -> Gravidez -> Iniciar Pré-natal
@@ -186,7 +184,7 @@ Atraso menstrual -> TIG
 >É o cartão do pré-natal da gestante. Contém todas as informações, agendamentos e possibilita permissões especiais para gestantes.
 
 
-### Intervalo entre consultas
+## Intervalo entre consultas
 - 1º retorno: 10 a 15 dias
 - Até 32 semanas -> mensais
 - 32 a 36 semanas -> quinzenais
@@ -208,14 +206,14 @@ Atraso menstrual -> TIG
 
 **Altura Uterina** -> Da borda superior da sínfise púbica até o fundo do útero. (Medir com fita métrica)
 
-### Manobra de Leopoldo
+## Manobra de Leopoldo
 Utilizada para saber a posição do feto no útero da mãe. Saber sua apresentação e saber se já está fixo e preparado para o parto.
 ![[Manobras de Leopoldo.png|450]]
 
 ![[Posição Fetal.png|400]]
 
 
-### Vacinação
+## Vacinação
 - Rubéola é contra indicada
 - Gripe -> imunodeprimidas
 - Febre amarela -> após o primeiro trimestre (área endêmica)

@@ -1,5 +1,8 @@
 #Exclude Obsidian configuration files
 .obsidian/
 
+#Exclude figures
+Imagens/
+
 #Exclude trash folder
 .trash/

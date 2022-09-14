@@ -1,0 +1,2 @@
+# Nociceptores
+Neurônios sensitivos encarregados de sentir a dor e desconforto, do que pode ser considerado **nocivo** pelo corpo. Eles podem ser sensíveis a estímulos mecânicos, temperatura, químicos ou outros tipos de sinais.

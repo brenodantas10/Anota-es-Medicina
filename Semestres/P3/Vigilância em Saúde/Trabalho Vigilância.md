@@ -26,3 +26,13 @@ Promoção da saúde
 
 
 Agenda 20 30
+
+## [Vigilância em Saúde – Ligado em Saúde](https://www.youtube.com/watch?v=CPOC1Lu0ySQ)
+Gracia Maria de Miranda Gondim
+
+A vigilância na verdade começou desde o início da história do homem
+- Se esconder de predadores
+- Se preservar de doenças
+- Se preservar do sol
+- Obter alimento necessário
+

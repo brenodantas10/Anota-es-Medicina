@@ -3,6 +3,8 @@ Nesse trabalho será discutido **o que é inteligência artificial**, em seus **
 
 ## O que é Inteligência Artificial (IA)?
 
+Poder de decisão?
+
 ## Qual o papel da IA?
 
 ## Alguns Exemplos

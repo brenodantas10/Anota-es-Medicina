@@ -11,7 +11,7 @@
 ## Consultas pediátricas
 - Aspectos peculiares da consulta
 	- Consulta no pré-natal
-		- Início da relação médico-paciente
+		-  Início da relação médico-paciente
 		- Ideal o paciente já escolher o pediatra nessa fase
 	- Consulta puericultura (CD (Crescimento e Desenvolvimento)): promoção à saúde
 		- 5º dia -> Primeira consulta
